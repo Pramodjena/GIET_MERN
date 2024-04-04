@@ -1,2 +1,0 @@
-# GIET_MERN : 
-
